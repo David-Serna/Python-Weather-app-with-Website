@@ -12,6 +12,7 @@ The code for this app was adapted from a tutorial by JWestdigital on YouTube. Yo
 - TIme of day
 - Uses the OpenWeatherMap API
 - Includes a search function that allows users to search for weather information for other cities.
+- Includes a dark mode version in a folder of it's own
 
 # Usage
 
