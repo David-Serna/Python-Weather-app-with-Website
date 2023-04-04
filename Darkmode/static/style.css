@@ -1,0 +1,26 @@
+body {
+  background-color: #36393F;
+  color: #fff;
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  text-align: center;
+}
+
+#weather-form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+label {
+  margin-bottom: 10px;
+}
+
+#weather-results {
+  text-align: center;
+  margin-top: 20px;
+}
