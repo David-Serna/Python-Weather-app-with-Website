@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Weather App</title>
+    <meta charset="UTF-8">
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        background-color: #f2f2f2;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        height: 100vh;
+      }
+      h1 {
+        text-align: center;
+      }
+      #weather-form {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        margin-top: 20px;
+      }
+      label {
+        margin-bottom: 10px;
+      }
+      #weather-results {
+        text-align: center;
+        margin-top: 20px;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Weather App</h1>
+    <form id="weather-form">
+      <label for="city-input">Enter a city name:</label>
+      <input type="text" id="city-input" name="city" required>
+      <button type="submit">Get Weather</button>
+    </form>
+    <div id="weather-results"></div>
+
+    <script src="weather.js"></script>
+  </body>
+</html>
