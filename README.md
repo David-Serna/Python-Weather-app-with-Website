@@ -2,6 +2,9 @@
 
 This is a simple weather app that uses the OpenWeatherMap API to fetch and display current weather data for a given city on a web page. The app includes a search function and is built using HTML, CSS, JavaScript, Python, and Flask.
 
+## Credit
+The code for this app was adapted from a tutorial by JWestdigital on YouTube. You can find the original tutorial on their youtube [here](https://www.youtube.com/watch?v=baWzHKfrvqw) and code on their GitHub page [here](https://github.com/arpanneupane19/Python-Weather-App-Tutorial). The API key used in this app was provided by OpenWeatherMap.org.
+
 ![Alt text](https://i.imgur.com/g9BRdHt.png)
 
 
