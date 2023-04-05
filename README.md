@@ -14,9 +14,11 @@ The code for this app was adapted from a tutorial by JWestdigital on YouTube. Yo
 - Includes a search function that allows users to search for weather information for other cities.
 - Includes a dark mode version in a folder of it's own
 
-# Usage
+# How-To-Use
 
-To use the Weather app, download all the files from the GitHub repository and run the app.py file in your Python environment. This will start a local web server and open a web page in your default web browser or DE of choice (e.g. PyCharm's built-in web server). Enter the name of a city you want to check the weather for (e.g. "Austin") and the app will display the current weather information for that city, including temperature, wind speed, and time of day
+To use the Weather app, first download the "Darkmode (download this)" directory from the GitHub repository. Then, navigate to the directory in your terminal or command prompt and run the app.py file using your Python environment. This will start a local web server and open a web page in your default web browser or DE of choice (e.g. PyCharm's built-in web server).
+
+To check the weather for a city, enter the name of the city in the "Enter a city name" input box and click the "Get Weather" button. The app will display the current weather information for that city, including temperature, wind speed, and time of day.
 
 # Libraries/dependencies
 
