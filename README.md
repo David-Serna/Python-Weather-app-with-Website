@@ -1,7 +1,7 @@
 ## Credit
 The code for this app was adapted from a tutorial by JWestdigital on YouTube. You can find the original tutorial on their youtube [here](https://www.youtube.com/watch?v=baWzHKfrvqw) and code on their GitHub page [here](https://github.com/arpanneupane19/Python-Weather-App-Tutorial). The API key used in this app was provided by OpenWeatherMap.org.
 
-![Alt text](https://i.imgur.com/g9BRdHt.png)
+![Alt text]([https://i.imgur.com/g9BRdHt.png](https://cdn.discordapp.com/attachments/991578814176034857/1092983559251308655/image.png))
 
 
 # Features
